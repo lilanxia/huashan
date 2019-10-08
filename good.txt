@@ -4,5 +4,6 @@ hello
 UUUUUU
 
 333333 hot_fix
+333333 master
 
 edit on branch fix_hot
